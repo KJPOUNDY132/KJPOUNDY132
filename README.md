@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Solar System monitoring systems and dataloggers<br><br>I'm working on Python IOT systems (DataBases, Brokers, Sensors). ReactNative mobile <br>App development (Apps for My Embedded Systems. Projecrs ).<br>and Lastly Embedded SoftWare and HardWare designing.
+I'm currently working on Solar System monitoring systems and dataloggers<br><br>I'm working on Python IOT systems (DataBases, Brokers, Sensors). ReactNative mobile <br>App development (Apps for My Embedded Systems. Projects ).<br>and Lastly Embedded SoftWare and HardWare designing.
 
 
 ## 🌐 Socials:
